@@ -10,9 +10,15 @@ This is part of the Text-to-Materials project, aimed at the inverse design of no
 
 ### Installing
 
-* git clone https://github.com/szl666/CO2RR-inverse-design.git
-* cd CO2RR-inverse-design
-* pip install -r requirements.txt
+* Clone this respostory
+```
+git clone https://github.com/szl666/CO2RR-inverse-design.git
+cd CO2RR-inverse-design
+```
+* Install dependencies 
+```
+pip install -r requirements.txt
+```
 
 ### Executing program
 
