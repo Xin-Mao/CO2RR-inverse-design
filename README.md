@@ -1,23 +1,18 @@
-The code used in the work “Inverse Design of Promising Alloys for Electrocatalytic CO2 Reduction via Generative Graph Neural Networks Combined with Bird Swarm Algorithm”
-# Project Title
+# CO2RR-inverse-design
 
-Simple overview of use/purpose.
+The code used in the work “Inverse Design of Promising Alloys for Electrocatalytic CO2 Reduction via Generative Graph Neural Networks Combined with Bird Swarm Algorithm”
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+This is part of the Text-to-Materials project, aimed at the inverse design of novel CO2 reduction electrocatalysts.
 
 ## Getting Started
 
-### Dependencies
-
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
-
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+* git clone https://github.com/szl666/CO2RR-inverse-design.git
+* cd CO2RR-inverse-design
+* pip install -r requirements.txt
 
 ### Executing program
 
@@ -53,12 +48,7 @@ ex. [@DomPizzie](https://twitter.com/dompizzie)
 
 This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
 
-## Acknowledgments
+## Citation
 
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+
 
