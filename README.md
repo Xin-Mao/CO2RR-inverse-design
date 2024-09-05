@@ -24,8 +24,8 @@ pip install -r requirements.txt
 
 * To begin the inverse design process, ensure that the following model files are placed in the appropriate directories:
 
-Surface Generation Model: Place the trained CDVAE model in the slab_generation_model folder.
-Adsorption Energy Prediction Model: Place the model files for CO and H adsorption energy predictions in the adsorption_predictor_model folder.
+** Surface generation model: Place the trained CDVAE model in the slab_generation_model folder.
+** Adsorption energy prediction model: Place the model files for CO and H adsorption energy predictions in the adsorption_predictor_model folder.
 
 Once the models are in place, run the following code to start the inverse design:
 ```
