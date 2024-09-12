@@ -1,10 +1,10 @@
 # CO2RR-inverse-design
 
-The code used in the work “Inverse Design of Promising Alloys for Electrocatalytic CO2 Reduction via Generative Graph Neural Networks Combined with Bird Swarm Algorithm”
+The code used in the work “Inverse Design of Promising Alloys for Electrocatalytic CO<sub>2</sub> Reduction via Generative Graph Neural Networks Combined with Bird Swarm Algorithm”
 
 ## Description
 
-This is part of the Text-to-Materials project, aimed at the inverse design of novel CO2 reduction electrocatalysts.
+This is part of the Text-to-Materials project, aimed at the inverse design of novel CO<sub>2</sub> reduction electrocatalysts.
 
 ## Getting Started
 
