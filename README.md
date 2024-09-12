@@ -31,6 +31,17 @@ Once the models are in place, run the following code to start the inverse design
 ```
 python bsa_opt.py
 ```
+* To analyze the inverse design results, including the average target property value per generation during BSA optimization, as well as the structural similarity between each generation and the previous one:
+```
+from t2mat_util.analyze_utilities import t2mat_analyze
+t2mat_ana = t2mat_analyze(poscars_path='opt_poscars',training_data_path='')
+```
+
+* To analyze and visualize the inverse design results:
+```
+from t2mat_util.visualize_utilities import t2mat_visualize
+t2mat_vis = t2mat_visualize(poscars_path='opt_poscars',if_analyze=True)
+```
 
 
 
