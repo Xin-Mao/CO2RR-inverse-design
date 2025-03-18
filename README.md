@@ -29,7 +29,7 @@ pip install -r requirements.txt
 
 Once the models are in place, run the following code to start the inverse design:
 ```
-python bsa_opt.py
+python cdvae_bsa_opt.py
 ```
 * To analyze the inverse design results, including the average target property value per generation during BSA optimization, as well as the structural similarity between each generation and the previous one:
 ```
